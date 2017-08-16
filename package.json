@@ -1,0 +1,23 @@
+{
+  "name": "first_node",
+  "version": "0.0.1",
+  "description": "First node.js project with Simplon.co Lyon's promo 3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadiytoure/first_node.git"
+  },
+  "keywords": [
+    "Simplon.co",
+    "Node.js"
+  ],
+  "author": "kadiy Simplon <tourekadiy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadiytoure/first_node/issues"
+  },
+  "homepage": "https://github.com/kadiytoure/first_node#readme"
+}
