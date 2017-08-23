@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kadiytoure/first_node/issues"
   },
-  "homepage": "https://github.com/kadiytoure/first_node#readme"
+  "homepage": "https://github.com/kadiytoure/first_node#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
 }
